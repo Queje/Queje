@@ -5,8 +5,7 @@
 <br>
 <details> <summary><U>Some facts about me</U></summary>
 <br>
-I started as working as a marine biology lab scientist :ocean:
-then I've been a substitute teacher :school_satchel:
+I started as working as a marine biology lab scientist :ocean: then I've been a substitute teacher :school_satchel:
 Now I'm starting over in as a web developer :computer: and I'm loving it! :sparkling_heart:
 <br>
 I can speak and write in :fr: :uk: :es:
@@ -18,7 +17,6 @@ I'm also trying to stay fit by sailing and surfing. :surfer:
 <br>
 - Skills: HTML / CSS / Ruby on Rails/ JS
 <br>
-
 - 🌱 I’m currently learning REACT / JS 
 - 📫 How to reach me: jeremyquerne@hotmail.fr 
 
