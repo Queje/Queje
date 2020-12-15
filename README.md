@@ -1,3 +1,5 @@
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ### Hi there 👋, I'm **Jérémy Querné**
 #### I'm a *junior web developer*. 
 <br>
