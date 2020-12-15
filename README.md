@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm **Jérémy Querné**
-<br>
 #### I'm a *junior web developer*. 
 <br>
 <details> <summary><U>Some facts about me</U></summary>
@@ -21,6 +20,5 @@ I'm also trying to stay fit by sailing and surfing. :surfer:
 - 🌱 I’m currently learning REACT / JS 
 - 📫 How to reach me: jeremyquerne@hotmail.fr 
 
-<center>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
-</center>
