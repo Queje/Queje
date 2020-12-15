@@ -1,4 +1,4 @@
-![banner](https://github.com/Queje/Queje/blob/README/keyboardbanner.jpeg)
+![banner](https://github.com/Queje/Queje/settings/og-template)
 
 ### Hi there 👋, I'm **Jérémy Querné**
 #### I'm a *junior web developer*. 
