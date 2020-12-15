@@ -21,4 +21,5 @@ I'm also trying to stay fit by sailing and surfing. :surfer:
 <br>
 - 📫 How to reach me: jeremyquerne@hotmail.fr 
 <br>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
