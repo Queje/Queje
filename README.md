@@ -16,7 +16,8 @@ I'm also trying to stay fit by sailing and surfing. :surfer:
 </details>
 <br>
 - Skills: HTML / CSS / Ruby on Rails/ JS
-
+<br>
+<center>
 - 🌱 I’m currently learning REACT / JS 
 - 📫 How to reach me: jeremyquerne@hotmail.fr 
 
