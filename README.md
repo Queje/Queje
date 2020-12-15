@@ -1,16 +1,26 @@
-### Hi there 👋
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freewebheaders.com%2Ffree-background%2Fcomputer-keyboard-background-in-blue-color-with-creative-lighted-buttons_634881%2F&psig=AOvVaw3HlHfVSTU8MSZ9yTsXvhJ5&ust=1608125110211000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi26ZaL0O0CFQAAAAAdAAAAABAJ)
+### Hi there 👋, I'm **Jérémy Querné**
+<br>
+#### I'm a *junior web developer*. 
+<br>
+<details> <summary><U>Some facts about me</U></summary>
+<br>
+I started as working as a marine biology lab scientist :ocean:
+then I've been a substitute teacher :school_satchel:
+Now I'm starting over in as a web developer :computer: and I'm loving it!
+<br>
+I can speak and write in :fr: :uk: :es:
+<br>
+I'm interested in science (obviously ;) ), science-fiction :alien: and fantasy :scroll: in series, movies and games. 
+<br>
+I'm also trying to stay fit by sailing and surfing. :surfer:
+ Well, I enjoy all kinds of sea related activities. 
+</details>
+<br>
+- Skills: HTML / CSS / Ruby on Rails/ JS
 
-<!--
-**Queje/Queje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- 🌱 I’m currently learning REACT / JS 
+- 📫 How to reach me: jeremyquerne@hotmail.fr 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
+</center>
