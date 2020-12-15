@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![banner](https://github.com/Queje/Queje/blob/README/keyboardbanner.jpeg)
 
 ### Hi there 👋, I'm **Jérémy Querné**
 #### I'm a *junior web developer*. 
