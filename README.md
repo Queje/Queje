@@ -26,8 +26,7 @@ check out my resume (in french for now) https://Queje.github.io
 - 🌱 I’m currently learning REACT / JS 
 <br /> 
 <hr>  
-- 📫 How to reach me:   
-jeremyquerne@hotmail.fr
+<p>- 📫 How to reach me: <a href="mailto:jeremyquerne@hotmail.fr">jeremyquerne@hotmail.fr</a></p>
 <br />     
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
