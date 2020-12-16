@@ -14,6 +14,8 @@ I can speak and write in :fr: :uk: :es:
 I'm interested in science (obviously ;) ), science-fiction :alien: and fantasy :scroll: in series, movies and games. 
 <br />
 I'm also trying to stay fit by sailing and surfing. :surfer:
+<br />         
+check out my resume (in french for now) https://Queje.github.io
 </details>
 <hr>
 <br />  
