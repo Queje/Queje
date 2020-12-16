@@ -2,9 +2,9 @@
 
 ### Hi there 👋, I'm **Jérémy Querné**
 #### I'm a *junior web developer*. 
-<br>
+<br>  
 <details> <summary><U>Some facts about me</U></summary>
-<br>
+<br>  
 I started as working as a marine biology lab scientist :ocean: then I've been a substitute teacher :school_satchel:
 Now I'm starting over in as a web developer :computer: and I'm loving it! :sparkling_heart:
 <br>
@@ -20,6 +20,6 @@ I'm also trying to stay fit by sailing and surfing. :surfer:
 - 🌱 I’m currently learning REACT / JS 
 <br>
 - 📫 How to reach me: jeremyquerne@hotmail.fr 
-<br>
+<br>   
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
