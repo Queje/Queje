@@ -21,9 +21,7 @@ check out my resume (in french for now) https://Queje.github.io or https://resum
 <br />  
 <strong>Skills:</strong>
 <br />  
-- :computer: HTML / CSS / Ruby on Rails/ JS
-<br />  
-- 🌱 I’m currently learning REACT / JS 
+- :computer: HTML / CSS / Ruby on Rails/ JavaScript / React
 <br /> 
 <hr>  
 <p>- 📫 How to reach me: <a href="mailto:jeremyquerne@hotmail.fr">jeremyquerne@hotmail.fr</a></p>
