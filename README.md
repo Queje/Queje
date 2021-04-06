@@ -27,4 +27,4 @@ check out my resume (in french for now) https://Queje.github.io or https://resum
 <p>- 📫 How to reach me: <a href="mailto:jeremyquerne@hotmail.fr">jeremyquerne@hotmail.fr</a></p>
 <br />     
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Queje)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JérémyQuerné/) [<img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tweeter.svg" alt='tweeter'>](https://twitter.com/JeremyQuerne)  
