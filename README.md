@@ -1,7 +1,7 @@
 ![banner](https://pilbox.themuse.com/image.png?url=https%3A%2F%2Fassets.themuse.com%2Fuploaded%2Fattachments%2F18595.png%3Fv%3Da520579c81d937c9277f3f3714fcd8f7d6570d12cc80a11772af0fac18269e1c&prog=1&w=780)
 
 ### Hi there 👋, I'm **Jérémy Querné**
-#### I'm a *freelance web developer*.
+#### I'm a *web developer*.
 #### I mostly work in ReactJS, NextJS and Ruby on Rails.
 #### Visit https://www.quejeweb.com
 <br />  
