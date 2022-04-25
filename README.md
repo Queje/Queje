@@ -17,7 +17,7 @@ I'm interested in science (obviously ;) ), science-fiction :alien: and fantasy :
 <br />
 I'm also trying to stay fit by sailing and surfing. :surfer:
 <br />         
-check out my resume (in french for now) https://Queje.github.io or https://resume.io/r/jIvNLKj57
+check out my resume (in french for now) https://resume.io/r/jIvNLKj57
 </details>
 <hr>
 <br />  
